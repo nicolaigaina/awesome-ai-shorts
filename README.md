@@ -331,6 +331,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 
 #### Repurposing Podcasts into Short Clips
 
+- [Podcast to Shorts: The Complete Repurposing Framework for Growth](https://www.autoshorts.app/en/blog/podcast-shorts-repurposing) — End-to-end framework from episode to viral clips
 - [How to Turn a Podcast into TikToks](https://clipfoundry.com/blog/how-to-turn-podcast-into-tiktoks) — Step-by-step with tool recommendations
 - [How to Turn Long Podcasts into Viral Short Clips](https://wayin.ai/blog/podcast-to-short-video/) — AI-powered workflow guide
 - [16 Creative Ways to Repurpose Podcasts](https://www.learningrevolution.net/ways-to-repurpose-podcasts/) — Comprehensive format list
@@ -340,19 +341,27 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 #### Creating YouTube Shorts
 
 - [Official YouTube Help: Create Shorts from Your Videos](https://support.google.com/youtube/answer/12836917?hl=en)
+- [YouTube Shorts Algorithm Explained: How to Get More Views in 2026](https://www.autoshorts.app/en/blog/youtube-shorts-algorithm-2026) — Deep dive into ranking signals and optimization
+- [How to Add Subtitles to YouTube Shorts Automatically](https://www.autoshorts.app/en/blog/add-subtitles-youtube-shorts-automatically) — Step-by-step captioning guide
+- [Short-Form Video SEO: How to Rank Shorts on YouTube and Google](https://www.autoshorts.app/en/blog/shorts-seo-2026) — SEO tactics for Shorts discovery
 - [Transitioning Long-Form Content to YouTube Shorts](https://blog.youtube/creator-and-artist-stories/transitioning-your-long-form-content-to-youtube-shorts/) — Official YouTube blog
 - [How to Create YouTube Shorts from Existing Videos](https://www.descript.com/blog/article/how-to-create-youtube-shorts-from-existing-video)
 - [How to Make YouTube Shorts: Ultimate Tutorial](https://www.opus.pro/blog/how-to-make-youtube-shorts)
 
 #### Platform-Specific Guides
 
-- **TikTok:** [AutoShorts TikTok Video Maker](https://www.autoshorts.app/en/tools/tiktok-video-maker) | [TikTok's Impact on Podcasting](https://www.cohostpodcasting.com/resources/tiktok-for-podcasters) | [Growing Your Podcast with TikTok](https://creators.spotify.com/resources/grow/tiktok-podcast-promotion)
-- **Instagram Reels:** [AutoShorts Instagram Reels Maker](https://www.autoshorts.app/en/tools/instagram-reels-maker) | [How Podcasters Should Use Instagram](https://www.cohostpodcasting.com/resources/how-podcasters-should-use-instagram) | [Turn Podcast to Instagram Content](https://podsqueeze.com/turn-podcast-to-instagram-content/)
+- **TikTok:** [AutoShorts TikTok Video Maker](https://www.autoshorts.app/en/tools/tiktok-video-maker) | [50 TikTok Hooks That Stop the Scroll](https://www.autoshorts.app/en/blog/tiktok-hooks-guide-2026) | [How to Explode Your TikTok Views in 2026](https://www.autoshorts.app/en/blog/tiktok-views-2026) | [How to Add Captions to TikTok Videos Automatically](https://www.autoshorts.app/en/blog/add-captions-tiktok-automatically) | [TikTok's Impact on Podcasting](https://www.cohostpodcasting.com/resources/tiktok-for-podcasters) | [Growing Your Podcast with TikTok](https://creators.spotify.com/resources/grow/tiktok-podcast-promotion)
+- **Instagram Reels:** [AutoShorts Instagram Reels Maker](https://www.autoshorts.app/en/tools/instagram-reels-maker) | [Best Hooks for Instagram Reels in 2026](https://www.autoshorts.app/en/blog/instagram-reels-hooks-2026) | [How to Get More Instagram Followers Organically](https://www.autoshorts.app/en/blog/instagram-organic-growth-2026) | [How Podcasters Should Use Instagram](https://www.cohostpodcasting.com/resources/how-podcasters-should-use-instagram) | [Turn Podcast to Instagram Content](https://podsqueeze.com/turn-podcast-to-instagram-content/)
 - **YouTube Shorts:** [AutoShorts YouTube Shorts Maker](https://www.autoshorts.app/en/tools/youtube-shorts-maker) | [AutoShorts YouTube Transcripts](https://www.autoshorts.app/en/transcripts) | [Ideal YouTube Shorts Length & Format](https://www.opus.pro/blog/ideal-youtube-shorts-length-format-retention)
-- **LinkedIn Video:** [AutoShorts LinkedIn Video Maker](https://www.autoshorts.app/en/tools/linkedin-video-maker) | [Ideal LinkedIn Video Length & Format](https://www.opus.pro/blog/ideal-linkedin-video-length-format-for-retention) | [LinkedIn Video Format 2026 Specs](https://socialrails.com/blog/linkedin-video-format-specs-guide)
+- **LinkedIn Video:** [AutoShorts LinkedIn Video Maker](https://www.autoshorts.app/en/tools/linkedin-video-maker) | [The 2026 LinkedIn Playbook](https://www.autoshorts.app/en/blog/linkedin-playbook-2026) | [Ideal LinkedIn Video Length & Format](https://www.opus.pro/blog/ideal-linkedin-video-length-format-for-retention) | [LinkedIn Video Format 2026 Specs](https://socialrails.com/blog/linkedin-video-format-specs-guide)
 
 #### Content Strategy
 
+- [How to Make Viral Videos in 2026: The Complete Guide](https://www.autoshorts.app/en/blog/how-to-make-viral-videos-2026) — What makes content go viral across platforms
+- [Turn Blog Posts Into Viral Shorts: The Content Repurposing Playbook](https://www.autoshorts.app/en/blog/blog-to-viral-shorts) — Blog-to-video conversion strategy
+- [Multi-Platform Video Distribution Strategy](https://www.autoshorts.app/en/blog/multi-platform-video-distribution) — Optimizing shorts for YouTube, TikTok, Instagram, and LinkedIn
+- [Publishing Shorts & Reels at Scale: Batching, Scheduling & Analytics](https://www.autoshorts.app/en/blog/batching-shorts-guide) — Workflow for high-volume creators
+- [Video Workflow Automation for Content Teams](https://www.autoshorts.app/en/blog/video-workflow-automation) — Save 10+ hours weekly with automation
 - [Repurpose One Piece of Content into 10+ Formats](https://www.stanfelmedia.com/elite-edge-news/marketing-strategy-9-repurpose-one-piece-of-content-into-10-formats)
 - [Ultimate Guide to Repurposing for Multiple Platforms](https://www.contentfries.com/blog/ultimate-guide-to-repurposing-for-multiple-platforms-in-2025)
 - [11 Podcast Marketing Strategies for 2025](https://podsqueeze.com/blog/10-podcast-marketing-strategies/)
@@ -361,6 +370,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 
 #### Captions & Subtitles Best Practices
 
+- [Viral Caption Styles 2026: Best Fonts & Trends to Boost Retention](https://www.autoshorts.app/en/blog/viral-captions-2026) — Font trends and styling for maximum watch time
 - [TikTok Caption & Subtitle Best Practices 2026](https://www.opus.pro/blog/tiktok-caption-subtitle-best-practices)
 - [Social Media Caption Styles: Complete Guide](https://www.kapwing.com/resources/social-media-captions-styles-a-complete-guide/)
 - [8 Best Fonts for TikTok Subtitles](https://sendshort.ai/guides/tiktok-font/)
