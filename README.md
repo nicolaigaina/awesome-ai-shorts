@@ -195,6 +195,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [D-ID](https://www.d-id.com/) | From ~$5.90/mo | Budget-friendly AI avatars |
 | [Lumen5](https://lumen5.com/) | Free (5 videos/mo); from $19/mo | Best at blog/URL-to-video conversion |
 | [InVideo AI](https://invideo.io/) | Free; from $25/mo | Prompt-driven with 16M+ stock assets |
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for creators, ecommerce teams, and short-form ad workflows.
 | [Fliki](https://fliki.ai/) | Free (5 min); from $21/mo | 1,300+ AI voices across 80+ languages |
 
 ---
