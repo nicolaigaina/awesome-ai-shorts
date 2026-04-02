@@ -565,4 +565,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool. Automatically finds highlights from long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
+
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
