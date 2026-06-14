@@ -257,6 +257,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [short-video-maker](https://github.com/gyoridavid/short-video-maker) | Growing | MCP-based short video creation |
 | [ClipsAI](https://github.com/ClipsAI/clipsai) | - | Python library for auto long-to-clip conversion |
 | [AutoMediaV2](https://github.com/Corzed/AutoMediaV2) | - | Generate clips + captions + auto-upload to YouTube Shorts |
+| [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) | - | Render 4-6s animated b-roll overlay videos (mp4) for short-form social. AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local. |
 | [Cyber Collector](https://t.me/cybercollectorbot) | — | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube + Shorts, X/Twitter, and Facebook videos — source material for repurposing. No signup, no ads. [Website](https://cybercollector.hitkey.io) |
 
 ### Cloud GPU Platforms
