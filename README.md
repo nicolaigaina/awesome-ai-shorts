@@ -252,12 +252,13 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [ShortGPT](https://github.com/RayVentura/ShortGPT) | ~7k | Full framework for automated shorts creation |
 | [AI-Youtube-Shorts-Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) | 3k+ | GPT-4 + Whisper + FFmpeg clip extraction |
-| [short-video-maker](https://github.com/gyoridavid/short-video-maker) | Growing | MCP-based short video creation |
-| [ClipsAI](https://github.com/ClipsAI/clipsai) | - | Python library for auto long-to-clip conversion |
 | [AutoMediaV2](https://github.com/Corzed/AutoMediaV2) | - | Generate clips + captions + auto-upload to YouTube Shorts |
+| [ClipsAI](https://github.com/ClipsAI/clipsai) | - | Python library for auto long-to-clip conversion |
 | [Cyber Collector](https://t.me/cybercollectorbot) | — | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube + Shorts, X/Twitter, and Facebook videos — source material for repurposing. No signup, no ads. [Website](https://cybercollector.hitkey.io) |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | 520 | Code-driven production with agent skills, transcription, and rendering |
+| [ShortGPT](https://github.com/RayVentura/ShortGPT) | ~7k | Full framework for automated shorts creation |
+| [short-video-maker](https://github.com/gyoridavid/short-video-maker) | Growing | MCP-based short video creation |
 
 ### Cloud GPU Platforms
 
