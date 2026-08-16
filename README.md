@@ -194,6 +194,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [Synthesia](https://www.synthesia.io/) | Free (10 min/mo); from $18/mo | AI avatars, SCORM compliance on higher tiers |
 | [D-ID](https://www.d-id.com/) | From ~$5.90/mo | Budget-friendly AI avatars |
 | [Lumen5](https://lumen5.com/) | Free (5 videos/mo); from $19/mo | Best at blog/URL-to-video conversion |
+| [videos.social](https://videos.social/?utm_source=awesome-ai-shorts&utm_medium=directory&utm_campaign=listing-wave-d) | Freemium | Editable faceless video from blogs, PDFs, and prompts |
 | [InVideo AI](https://invideo.io/) | Free; from $25/mo | Prompt-driven with 16M+ stock assets |
 | [Fliki](https://fliki.ai/) | Free (5 min); from $21/mo | 1,300+ AI voices across 80+ languages |
 
