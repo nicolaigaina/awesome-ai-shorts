@@ -44,6 +44,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [2short.ai](https://2short.ai/) | Free (30 min analysis/mo); from $9.90/mo | Web | Manual editing controls after AI clip generation |
 | [Klap](https://klap.app/) | Free trial (1 video); from $23/mo | Web | Speed-optimized viral moment detection |
 | [Reap](https://www.reap.video/) | Free (60 credits/mo); from $29/mo | Web | AI clipping with captioning, reframing, and dubbing |
+| [shortshort](https://www.shortshort.io/) | Free (60 credits, no card); from EUR 12/mo | Web | Cuts on complete sentences (25% margin), one zoom per shot, priced per minute of source rather than per clip |
 | [SendShort](https://sendshort.ai/) | Free (3 videos/mo); from $15/mo | Web | Clipping + captions + scheduling + faceless video in one tool |
 | [Chopcast](https://www.chopcast.io/) | 7-day free trial; from $9/mo | Web | Search videos by topic/keyword to generate clips |
 | [Spikes Studio](https://www.spikes.studio/) | Free (watermarked, 720p); from $19/mo | Web | Built for streamers and gaming content |
