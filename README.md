@@ -116,6 +116,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 |------|---------|-----------|-------------|
 | [Descript](https://www.descript.com/) | Free; from $16/mo | Web, Desktop | Edit video by editing text; Overdub voice cloning |
 | [CapCut](https://www.capcut.com/) | Free; Pro $19.99/mo | Web, iOS, Android, Desktop | Most powerful free editor with AI features |
+| [ReelWorkshop](https://reelworkshop.com/) | Free edit/preview; export Starter | Web | Browser compilation maker: import/arrange/trim/preview; vertical 9:16 H.264 |
 | [Canva Video](https://www.canva.com/video-editor/) | Free; Pro $12.99/mo | Web, iOS, Android, Desktop | Full design ecosystem integration, Magic Media AI |
 | [Runway](https://runwayml.com/) | From $12/mo | Web, iOS | Most granular creative controls for AI video |
 | [Filmora](https://filmora.wondershare.com/) | $9.99/mo; Perpetual $99.99 | Desktop, iOS, Android | 100+ AI features, 5M+ stock media, perpetual license |
