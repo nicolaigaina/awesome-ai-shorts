@@ -55,6 +55,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [WayinVideo](https://wayin.ai/) | Free (200 credits); from $4.99/mo | Web | Keyword-search to pinpoint exact moments |
 | [Pictory](https://pictory.ai/) | From $19/mo | Web | Text/blog-to-video with 10M+ stock assets |
 | [Quso.ai](https://quso.ai/) | Free (75 credits/mo) | Web | AI clipping + templates + scheduling + publishing |
+| [ScaleReach](https://www.scalereach.ai/pricing) | Free trial; from $10/mo billed annually | Web | Face-tracking 9:16 crop, AI captions, virality scoring, scheduling, public API and MCP server |
 
 ### Feature Comparison: Top AI Clip Generators
 
