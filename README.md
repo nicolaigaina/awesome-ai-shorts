@@ -277,10 +277,9 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | Tool | Pricing | Key Feature |
 |------|---------|-------------|
 | [Exolyt](https://exolyt.com/) | Free basic; from $400/mo | Deep TikTok-specific analytics and trend intelligence |
-| [Pentos](https://www.pentos.co/) | From $49/mo | Competitor tracking and viral trend identification |
-| [Analisa.io](https://analisa.io/) | Free; paid plans | Cross-platform TikTok + Instagram analytics |
 | [Iconosquare](https://www.iconosquare.com/) | From $33/mo | Multi-platform analytics with scheduling |
 | [Socialinsider](https://www.socialinsider.io/) | From $99/mo | Cross-platform competitive benchmarking |
+| [tkmetrics](https://tkmetrics.com/tiktok-money-calculator/) | Freemium | TikTok money calculator from average views; creators ranked by views and engagement |
 
 ### Trend Discovery
 
