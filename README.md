@@ -27,6 +27,7 @@ This list covers everything you need to turn long-form content into viral short 
 - [Industry Statistics](#industry-statistics) — Market data and reports
 - [Communities](#communities) — Subreddits, Discord servers, newsletters
 - [Related Awesome Lists](#related-awesome-lists)
+- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 
 ---
 
