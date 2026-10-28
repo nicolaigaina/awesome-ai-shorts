@@ -97,6 +97,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [WhisperX](https://github.com/m-bain/whisperX) | 20k+ | Word-level timestamps + speaker diarization, 70x realtime |
 | [Buzz](https://github.com/chidiwilliams/buzz) | 18k+ | Desktop GUI app, fully offline transcription |
 | [insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 8k+ | Optimized pipeline achieving ~30x real-time speed |
+| [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) | 0 | SDH/bilingual review; optional local ASR/Qwen (API charges); MIT; public preview |
 | [WhisperLive](https://github.com/collabora/WhisperLive) | 3k+ | Near-real-time streaming transcription |
 
 ### Transcription APIs
