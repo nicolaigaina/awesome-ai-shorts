@@ -82,6 +82,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [Captions (captions.ai)](https://captions.ai/) | Free; Pro $9.99/mo | iOS, Android, Web | Full AI editing suite, teleprompter, AI avatars |
 | [CapCut](https://www.capcut.com/) | Free; Pro $19.99/mo | Web, iOS, Android, Desktop | Most powerful free tier with AI caption features |
 | [VEED.io](https://www.veed.io/) | Free (10 min video limit); from $12/mo | Web | 100+ languages, eye contact correction, AI green screen |
+| [Karaoke Captions](https://karaokecaptions.com/) | Freemium | Web | On-device word-by-word captions; watermark-free MP4, SRT and VTT exports |
 | [Kapwing](https://www.kapwing.com/) | Free (limited exports); from $16/mo | Web | Animated caption styles, collaborative workspace |
 | [Zubtitle](https://zubtitle.com/) | Free (2 videos/mo); Premium $19/mo | Web | Brand-focused caption styling with visual consistency |
 | [Happy Scribe](https://www.happyscribe.com/) | Free (10 min); from $17/mo | Web | Hybrid human + AI transcription for highest accuracy |
