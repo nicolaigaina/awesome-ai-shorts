@@ -196,6 +196,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [Lumen5](https://lumen5.com/) | Free (5 videos/mo); from $19/mo | Best at blog/URL-to-video conversion |
 | [InVideo AI](https://invideo.io/) | Free; from $25/mo | Prompt-driven with 16M+ stock assets |
 | [Fliki](https://fliki.ai/) | Free (5 min); from $21/mo | 1,300+ AI voices across 80+ languages |
+| [FacelessShorts](https://facelessshorts.io/) | Subscription | Automated faceless series with scheduled publishing to Shorts, TikTok, and Reels |
 
 ---
 
