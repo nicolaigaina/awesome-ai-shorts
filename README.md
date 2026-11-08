@@ -48,6 +48,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [Chopcast](https://www.chopcast.io/) | 7-day free trial; from $9/mo | Web | Search videos by topic/keyword to generate clips |
 | [Spikes Studio](https://www.spikes.studio/) | Free (watermarked, 720p); from $19/mo | Web | Built for streamers and gaming content |
 | [Eklipse](https://eklipse.gg/) | Free (720p, 15 clips/stream); paid plans | Web | AI gaming highlight detection, 300+ games fully supported |
+| [Clips Kitty](https://github.com/ColinGPT9/clips-studio) | Open-source | Windows | Runs on your own PC: Twitch, Kick and YouTube VODs to captioned 9:16 clips with speaker tracking |
 | [Framedrop](https://www.framedrop.ai/) | Free (60 min talking); from $12.50/mo | Web | Speech, transcript search, and scene change detection |
 | [Vmaker](https://www.vmaker.com/) | Freemium (limits apply) | Web, Desktop | Also serves as screen recorder |
 | [QuickReel](https://www.quickreel.io/) | Subscription plans | Web, Desktop | Desktop app available (Mac/Windows) |
