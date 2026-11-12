@@ -125,6 +125,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [VN Editor](https://www.vlognow.me/) | Free; Pro $7.99/mo | iOS, Android, macOS | No watermark on free tier |
 | [LumaFusion](https://luma-touch.com/) | $29 one-time | iOS, Android, macOS | Most powerful mobile editor, multi-track timeline |
 | [Gling](https://www.gling.ai/) | Free editor; from $10/mo | Desktop, Web | Auto-removes silences and filler words for YouTubers |
+| [Genjutsu AI](https://genjutsuai.dev/) | Freemium | Web | Motion transfer and person/outfit swap from reference photos, no watermark. |
 
 ---
 
