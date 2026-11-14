@@ -81,6 +81,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [AutoShorts YouTube Transcripts](https://www.autoshorts.app/en/transcripts) | Freemium | Web | Extract full transcripts from YouTube videos with multi-language support |
 | [Captions (captions.ai)](https://captions.ai/) | Free; Pro $9.99/mo | iOS, Android, Web | Full AI editing suite, teleprompter, AI avatars |
 | [CapCut](https://www.capcut.com/) | Free; Pro $19.99/mo | Web, iOS, Android, Desktop | Most powerful free tier with AI caption features |
+| [Valmera](https://valmera.io/tools/add-captions-to-video) | From $15/mo | Web | Correct a single caption word, preview it in context, and export the captioned MP4 |
 | [VEED.io](https://www.veed.io/) | Free (10 min video limit); from $12/mo | Web | 100+ languages, eye contact correction, AI green screen |
 | [Kapwing](https://www.kapwing.com/) | Free (limited exports); from $16/mo | Web | Animated caption styles, collaborative workspace |
 | [Zubtitle](https://zubtitle.com/) | Free (2 videos/mo); Premium $19/mo | Web | Brand-focused caption styling with visual consistency |
