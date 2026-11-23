@@ -37,6 +37,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | Tool | Pricing | Platforms | Key Feature |
 |------|---------|-----------|-------------|
 | [AutoShorts](https://www.autoshorts.app/en/tools/ai-video-clipper) | Freemium | Web | Active speaker detection with face tracking, word-level animated subtitles, 3-tier AI fallback for moment detection |
+| [FluidCut](https://fluidcut.app/) | Free (60 credits/mo); from $10/mo | Web | Captioned clips from long videos and live streams, plus editing from plain-language instructions, no watermark |
 | [Opus Clip](https://www.opus.pro/) | Free (60 credits/mo); from $15/mo | Web, iOS | Virality scoring, AI B-roll (Pro+), social scheduler (Pro+) |
 | [Vizard](https://vizard.ai/) | Free; from $14.50/mo | Web, iOS | Speaker boundary detection, enterprise team workspaces |
 | [Submagic](https://www.submagic.co/) | Free (3 videos/mo); from $14/mo | Web | 48-language captions, auto-SEO descriptions and hashtags |
